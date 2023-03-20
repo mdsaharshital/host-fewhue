@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4f18836.css",
+    "main.js": "/static/js/main.302f2716.js",
+    "static/js/787.bbfb6402.chunk.js": "/static/js/787.bbfb6402.chunk.js",
+    "static/media/YT1.png": "/static/media/YT1.a8afd0be032e644ea9b9.png",
+    "static/media/fewhue2.png": "/static/media/fewhue2.844259d2717c9e571b1b.png",
+    "static/media/fewhue3.png": "/static/media/fewhue3.196118fa564c2e8777e3.png",
+    "static/media/fewhue1.png": "/static/media/fewhue1.ed88852bda227a87fd9c.png",
+    "static/media/taka.svg": "/static/media/taka.1a6b1060cfee403de275f6c44c1f59c0.svg",
+    "static/media/WhatsappLogo.svg": "/static/media/WhatsappLogo.94868809fc4f43396facdc1ac2cc1b33.svg",
+    "static/media/ShoppingCart.svg": "/static/media/ShoppingCart.26710a611dfb8a93eed3b3a0ee5315d7.svg",
+    "static/media/InstagramLogo.svg": "/static/media/InstagramLogo.ff739d8d3d07d7bb04c33e6b6a7f77b3.svg",
+    "static/media/FacebookLogo.svg": "/static/media/FacebookLogo.23f5b90adf1ee81ff7e03779f7926766.svg",
+    "index.html": "/index.html",
+    "static/media/CaretRight.svg": "/static/media/CaretRight.309cd704b603ebd77b40ec05bf316a24.svg",
+    "main.c4f18836.css.map": "/static/css/main.c4f18836.css.map",
+    "main.302f2716.js.map": "/static/js/main.302f2716.js.map",
+    "787.bbfb6402.chunk.js.map": "/static/js/787.bbfb6402.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f18836.css",
+    "static/js/main.302f2716.js"
+  ]
+}
